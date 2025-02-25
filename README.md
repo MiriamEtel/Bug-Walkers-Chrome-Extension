@@ -3,10 +3,6 @@
 <p align="left">
   <img src="https://github.com/MiriamEtel/Bug-Walkers-Chrome-Extension/blob/main/video.gif" width="400">
 </p>
-<p align="left">
-  <img src="https://github.com/MiriamEtel/Bug-Walkers-Chrome-Extension/raw/main/screenshot.png" width="400">
-</p>
-
 ## 🧐 What Does This Extension Do?
 Once installed, small virtual bugs will start appearing and moving randomly across the Google search page. Each bug moves naturally, rotates, and changes direction randomly. These bugs do not interfere with regular browser activities, allowing you to continue using Google search as usual.
 
