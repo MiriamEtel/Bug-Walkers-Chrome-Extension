@@ -2,7 +2,7 @@
 📌 **A unique Chrome extension that adds animated crawling bugs to the Google search page, providing a fun and interactive user experience!**
 
 🎥 **Demo Preview:**  
-![Bug Walkers Demo](https://github.com/MiriamEtel/Bug-Walkers-Chrome-Extension/raw/main/demo.gif)
+![Bug Walkers Demo](https://github.com/MiriamEtel/Bug-Walkers-Chrome-Extension/demo.gif)
 
 
 ## 🧐 What Does This Extension Do?
