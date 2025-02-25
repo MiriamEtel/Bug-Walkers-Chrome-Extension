@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Bug Walkers",
+  "version": "1.0",
+  "description": "Adds walking bugs to the Google search page.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["bug.png"],
+      "matches": ["https://www.google.com/*"]
+    }
+  ]
+}
