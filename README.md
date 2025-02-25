@@ -50,4 +50,5 @@ If you like this extension, please **star the repository** on GitHub! ⭐ It hel
 For any inquiries or feedback, feel free to reach out via GitHub or open a new Issue.
 
 **Enjoy browsing with Bug Walkers! 🐞🚀**
-
+ 
+  <img src="https://github.com/MiriamEtel/Bug-Walkers-Chrome-Extension/raw/main/screenshot.png" >
