@@ -3,6 +3,6 @@
   width: 40px;
   height: 4%0px;
   transition: transform 1s linear;
-  pointer-events: none; /* מונע מהמשתמשים ללחוץ על החיפושיות */
+  pointer-events: none; 
   z-index: 9999;
 }
