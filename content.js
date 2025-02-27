@@ -1,7 +1,8 @@
 const numberOfBugs = 10;
 
 // Prevents bugs from overflowing outside the screen
-document.body.style.overflow = "hidden";
+// Ensures scrolling remains enabled
+document.body.style.overflow = "auto";
 
 // Retrieves the bug image from the extension's resources
 const bugImage = chrome.runtime.getURL("bug.png");
