@@ -20,7 +20,7 @@ function createBug() {
 
     bug.onload = () => {
         document.body.appendChild(bug);
-        bug.style.position = "absolute";
+        bug.style.position = "fixed";
         bug.style.left = `${window.innerWidth / 2}px`;
         bug.style.top = `${window.innerHeight / 2}px`;
         moveBug(bug);
